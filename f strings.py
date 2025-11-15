@@ -10,8 +10,8 @@
 
 
 
-10 =="rudra"
-5  =="15"
-a=(f"My Name is {10} and I am {5} years old")
+name="rudra"
+age ="15"
+a=(f"My Name is {name} and I am {age} years old")
 print(a)
 
